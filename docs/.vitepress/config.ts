@@ -47,7 +47,7 @@ export default {
         collapsible: true,
         items: [
           { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          { text: "Getting Started", link: "/get-started" },
         ],
       },
       {
